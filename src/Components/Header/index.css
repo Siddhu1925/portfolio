@@ -1,0 +1,7 @@
+.Candidate-name{
+    font-size:5em ;
+    margin: 0;
+}
+.Candidate-email,.Candidate-phone-number{
+    margin:0 0 5px;
+}
